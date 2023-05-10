@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url(../Images/img.jpg);
+    background-size: cover;
+}
+
+.form-login {
+    background-color: rgba(240, 250, 210, 0.35);
+    border-radius: 10px;
+    color: #fff;
+    padding: 20px;
+    max-width: 450px;
+    width: 100%;
+    margin: auto;
+}
+
+.btn-primary:hover {
+    background: #c7c426 !important;
+}
